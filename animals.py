@@ -12,6 +12,8 @@ elif(animal == "Dog"):
     print(animal)
 elif(animal == "Donkey"):
     print(animal)
+elif(animal == "Horse"):
+    print(animal)
 else:
     print("No specific animals")
 
