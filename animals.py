@@ -10,6 +10,8 @@ if(animal == "Cat"):
     print(animal)
 elif(animal == "Dog"):
     print(animal)
+elif(animal == "Donkey"):
+    print(animal)
 else:
     print("No specific animals")
 
